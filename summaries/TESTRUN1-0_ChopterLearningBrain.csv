@@ -1,0 +1,13 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+ChopterLearningBrain,0.811,8.690,5.709,11880,-576.646
+ChopterLearningBrain,0.821,15.153,5.126,12060,-513.389
+ChopterLearningBrain,0.781,21.061,4.669,11880,-465.308
+ChopterLearningBrain,0.834,27.059,4.793,12060,-382.364
+ChopterLearningBrain,0.788,33.253,4.903,12060,-313.784
+ChopterLearningBrain,0.782,39.196,4.685,11880,-281.383
+ChopterLearningBrain,0.817,45.264,4.858,12060,-216.763
+ChopterLearningBrain,0.795,51.365,4.819,12060,-144.570
+ChopterLearningBrain,0.787,57.023,4.412,11880,-107.985
+ChopterLearningBrain,0.757,62.959,4.794,12060,-34.451
+ChopterLearningBrain,0.819,69.281,5.009,12060,33.495
+ChopterLearningBrain,0.774,75.194,4.648,11880,65.765
