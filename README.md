@@ -18,4 +18,4 @@ Screenshot of a training process in our training environment (A red color means 
 
 <img src="https://i.imgur.com/fMMjEF0.png" alt="alt text" width="700" height="400" />
 
-This project is far from being done, however as a testing ground it serves it's purpose. Planned features include, traning the model on more than on axis and a set destination for the agent to reach while avoiding obstacles.
+This project is far from being done, however as a testing ground it serves it's purpose. Planned features include, training the model on more than one axis and implement a set destination goal for the agent to reach while avoiding obstacles.
